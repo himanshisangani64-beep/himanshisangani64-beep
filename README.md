@@ -2,7 +2,7 @@
 
 # 👋 HIMANSHI SANGANI
 
-### BCA Graduate | AI/ML & Data Science Learner | Aspiring ML Engineer
+### BCA Graduate | AI/ML & Data Science | Aspiring ML Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+with+Python+%26+SQL+%F0%9F%90%8D;Learning+AI%2FML+Through+Real+Projects+%F0%9F%A4%96;From+Data+Analysis+to+Machine+Learning+%F0%9F%9A%80" alt="Typing Animation"/>
 
@@ -61,7 +61,7 @@ I am building my technical foundation through practical projects, data analysis,
 
 <div align="center">
 
-**Python** ✅ → **SQL** ✅ → **Excel** 🟢 → **Power BI** 🟡 → **Machine Learning** 🤖 → **Deep Learning** 🧠
+Python & SQL → Data Analysis → Statistics → Machine Learning → Deep Learning
 
 </div>
 
