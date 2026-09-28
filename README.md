@@ -93,6 +93,16 @@ A database project designed to manage departments, courses, instructors, student
 
 ---
 
+### 🧹 Automated Data Cleaning & EDA Tool
+
+**Python | Data Cleaning & EDA**
+
+A Python-based data cleaning tool for handling messy data, detecting data-quality issues, and preparing clean datasets for analysis and machine learning.
+
+🔗 **[View Project →](https://github.com/himanshisangani64-beep/Data_Clean_Tool_Python)**
+
+---
+
 
 # 🔥 Contribution Streak
 
