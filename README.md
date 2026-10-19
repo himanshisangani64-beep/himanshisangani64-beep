@@ -73,6 +73,16 @@ Currently focusing on:
 
 # 🚀 Featured Projects
 
+### 🤖 Global AI Jobs Analysis – 2026
+
+**Excel**
+
+An Excel-based project focused on global AI job market trends, salary analysis, AI specializations, industry demand, experience levels, job satisfaction, automation risk, and interactive dashboard reporting.
+
+🔗 **[View Project →](https://github.com/himanshisangani64-beep/Global-AI-Jobs-Analysis)**
+
+---
+
 ### 📊 Student Performance & Attendance Tracker
 
 **MySQL • SQL • Database Management**
