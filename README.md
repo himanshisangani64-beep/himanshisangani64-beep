@@ -42,8 +42,11 @@ I am building my technical foundation through practical projects, data analysis,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="48" alt="Power BI" />
+</p>
 <br><br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -61,7 +64,7 @@ I am building my technical foundation through practical projects, data analysis,
 
 <div align="center">
 
-Python & SQL → Data Analysis → Statistics → Machine Learning → Deep Learning
+Python → SQL → Data Analysis → Excel → Power BI → Mathematics & Statistics → Machine Learning
 
 </div>
 
