@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/himanshisangani64-beep">
-<img src="https://img.shields.io/badge/GitHub-himanshisangani64--beep-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-himanshisangani-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/himanshi-sangani-b2977b338/">
